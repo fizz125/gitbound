@@ -1,0 +1,4 @@
+gitbound
+
+gitbound is a git multi-repo management tool intended to be a replacement for
+gitslave.
